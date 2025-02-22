@@ -1,4 +1,4 @@
-Earth
+Space
 =====
 
 3D view of the earth, moon and sun in Three.js
